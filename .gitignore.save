@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files (keep raw data local)
+data/raw/
+
+# Oututs/
+
+# Environment
+.env
